@@ -1,0 +1,18 @@
+{
+  "name": "instagram-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch Direct Link Media Instagram To Array",
+  "main": "ig.js",
+  "scripts": {
+    "test": "node ig.js"
+  },
+  "dependencies": {
+"axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+},
+  "keywords": [
+    "instagram-downloader"
+  ],
+  "author": "Abdul Muttaqin",
+  "license": "ISC"
+}
