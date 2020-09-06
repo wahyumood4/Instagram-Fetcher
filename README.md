@@ -1,6 +1,8 @@
 # Instagram-Fetcher
 Get direct url instagram media to array
-
+```bash
+npm i instagram-fetcher 
+```
 # Example
 ```javascript
 const igm = require("instagram-fetcher");
