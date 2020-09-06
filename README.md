@@ -9,7 +9,7 @@ console.log(link);
 ```
 
 # Example Output
-```json
+```
 [              
                                                    
 'https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118774947_241673823764860_8161510709798728843_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=104&_nc_ohc=1697Ifce5LQAX9eHoZL&oh=cb7b4bcc5f55962bd06ad6e45fa4de27&oe=5F7C7F61',    
