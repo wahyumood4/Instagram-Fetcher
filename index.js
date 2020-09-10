@@ -1,7 +1,6 @@
 const axios = require('axios')
 const qs = require('querystring')
 const cheerio = require('cheerio');
-const imageToBase64 = require('image-to-base64');
 
 function download(link){
 var url = "https://sssinstagram.com/results";
