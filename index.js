@@ -26,7 +26,7 @@ return ig;
 }
 )        
   .catch((err) => {
-console.log("sonething went wrong");
+console.log("something went wrong");
   })
 }
 exports.download = download;
