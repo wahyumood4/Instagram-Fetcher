@@ -6,7 +6,7 @@ npm i instagram-fetcher
 # Example
 ```javascript
 const igm = require("instagram-fetcher");
-var link = igm.download("https://www.instagram.com/p/CEvNcEMhkrT/?utm_source=ig_web_copy_link');
+var link = igm.download("https://www.instagram.com/p/CEvNcEMhkrT/?utm_source=ig_web_copy_link");
 console.log(link);
 ```
 
